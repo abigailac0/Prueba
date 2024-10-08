@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1{font-family: 'Courier New', Courier, monospace;
+color: wheat ;
+font-style: italic;
+}
+
+.datos {
+    color: peachpuff;
+}
+.boton {
+    background-color: gainsboro;
+    padding: 15px 32px;
+    text-align: center;
+}
